@@ -40,6 +40,11 @@ li a:hover:not(.active) {
 	font-size: 85px;
 }
 
+#greg {
+	text-align: center;
+	font-size: 85px;
+}
+
 .banner {
 	text-align: center;
 	top: 55%;
@@ -52,3 +57,15 @@ li a:hover:not(.active) {
 	letter-spacing: 1px;
 	text-shadow: 2px 2px 4px #fff;
 }
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    height: 20px;
+    background: #f0f0f0;
+    width: 100%;
+  }
+
+.list-group {
+    background-color: none;
+} 
