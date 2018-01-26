@@ -1,6 +1,6 @@
 body {
     background: red; /* For browsers that do not support gradients */
-    background: linear-gradient(to right, #0000FF, #00FF00);
+    background: linear-gradient(to right, rgb(108, 145, 247), rgb(247, 222, 81));
 }
 
 
