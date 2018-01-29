@@ -35,7 +35,7 @@ li a:hover:not(.active) {
 	opacity: 0.3;
 }
 
-#erwin, #greg {
+#erwin {
 	text-align: center;
 	font-size: 85px;
 }
@@ -53,6 +53,7 @@ li a:hover:not(.active) {
 	text-shadow: 2px 2px 4px #fff;
 }
 
+<<<<<<< HEAD
 html {
     height: 100%;
   }
@@ -80,10 +81,21 @@ body {
   }
 
 
+=======
+>>>>>>> f6e447d535db5f8ab49148001fd58847f4cd95fa
 .container-fluid img{
     width: 100%;
     height: auto;
     float: left;
     padding: 5px;
 }
+<<<<<<< HEAD
 }
+=======
+
+#desc {
+    font-size: 1.5em;
+	letter-spacing: 0.1em;
+	text-shadow: 4px 4px 2px rgba(150, 150, 150, 0.75);
+}
+>>>>>>> f6e447d535db5f8ab49148001fd58847f4cd95fa
