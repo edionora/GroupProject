@@ -1,6 +1,6 @@
 body {
     background: red; /* For browsers that do not support gradients */
-    background: linear-gradient(to right, #0000FF, #00FF00);
+    background: linear-gradient(to right, rgb(236, 214, 85), rgb(107, 207, 253));
 }
 
 
@@ -55,12 +55,45 @@ li a:hover:not(.active) {
 =======
 }
 
+<<<<<<< HEAD
+html {
+    height: 100%;
+  }
+
+body {
+    min-height: 100%;
+    position: relative;
+    margin: 0;
+    padding-bottom: 1rem; 
+}
+  
+.footer {
+    /* position: absolute;
+    bottom: 0;*/
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    height: 20px;
+    background: #f0f0f0;
+}
+
+.list-group-item {
+    background-color: inherit;
+  }
+
+
+=======
+>>>>>>> f6e447d535db5f8ab49148001fd58847f4cd95fa
 .container-fluid img{
     width: 100%;
     height: auto;
     float: left;
     padding: 5px;
 }
+<<<<<<< HEAD
+}
+=======
 
 #desc {
     font-size: 1.5em;
