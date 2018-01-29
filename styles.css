@@ -67,3 +67,10 @@ li a:hover:not(.active) {
 .list-group {
     background-color: none;
 } 
+
+.container-fluid img{
+    width: 100%;
+    height: auto;
+    float: left;
+    padding: 5px;
+}
