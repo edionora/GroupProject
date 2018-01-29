@@ -39,7 +39,7 @@ li a:hover:not(.active) {
 	opacity: 0.3;
 }
 
-#erwin, #greg, #darryl {
+.motto, #erwin, #greg, #darryl {
 	text-align: center;
 	font-size: 85px;
 }
@@ -73,7 +73,7 @@ li a:hover:not(.active) {
 	letter-spacing: 0.1em;
 	text-shadow:2px black;
 }
-.center {
+.xyz {
     display: block;
     margin-left: auto;
     margin-right: auto;
