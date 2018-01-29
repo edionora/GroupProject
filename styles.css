@@ -1,6 +1,6 @@
 body {
     background: red; /* For browsers that do not support gradients */
-    background: linear-gradient(to right, rgb(108, 145, 247), rgb(247, 222, 81));
+    background: linear-gradient(to right, #0000FF, #00FF00);
 }
 
 
@@ -40,7 +40,6 @@ li a:hover:not(.active) {
 	font-size: 85px;
 }
 
-
 .banner {
 	text-align: center;
 	top: 55%;
@@ -52,23 +51,4 @@ li a:hover:not(.active) {
 	text-transform: uppercase;
 	letter-spacing: 1px;
 	text-shadow: 2px 2px 4px #fff;
-}
-
-.footer {
-    position: absolute;
-    bottom: 0;
-    height: 20px;
-    background: #f0f0f0;
-    width: 100%;
-  }
-
-.list-group {
-    background-color: none;
-} 
-
-.container-fluid img{
-    width: 100%;
-    height: auto;
-    float: left;
-    padding: 5px;
 }
