@@ -55,8 +55,6 @@ li a:hover:not(.active) {
 	text-transform: uppercase;
 	letter-spacing: 1px;
 	text-shadow: 2px 2px 4px #fff;
-<<<<<<< HEAD
-=======
 }
 
   
@@ -81,18 +79,9 @@ li a:hover:not(.active) {
     float: left;
     padding: 5px;
 }
-<<<<<<< HEAD
-}
-=======
 
 #desc {
     font-size: 1.5em;
 	letter-spacing: 0.1em;
-<<<<<<< HEAD
 	text-shadow:2px black;
 }
-=======
-	text-shadow: 4px 4px 2px rgba(150, 150, 150, 0.75);
-}
->>>>>>> f6e447d535db5f8ab49148001fd58847f4cd95fa
->>>>>>> f294cfa864050f39e116078d4cc7b85f9bd2c295
