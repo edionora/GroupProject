@@ -79,3 +79,8 @@ li a:hover:not(.active) {
     margin-right: auto;
     width: 50%;
 }
+
+.title{
+
+text-align:center;
+}
