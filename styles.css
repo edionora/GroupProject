@@ -78,13 +78,10 @@ html {
     background: #f0f0f0;
 }
 
-
-<<<<<<< HEAD
-  .list-group-item {
+.list-group-item {
     background-color: inherit;
   }
-  
-======
+
 
 .container-fluid img{
     width: 100%;
@@ -92,4 +89,3 @@ html {
     float: left;
     padding: 5px;
 }
->>>>>>> ac297ae26bc8baed28d55fe97bd272452512b708
