@@ -1,6 +1,6 @@
 body {
     background: red; /* For browsers that do not support gradients */
-    background: linear-gradient(to right, #0000FF, #00FF00);
+    background: linear-gradient(to right, rgb(108, 145, 247), rgb(247, 222, 81));
 }
 
 ul {
@@ -33,10 +33,13 @@ li a:hover:not(.active) {
 	opacity: 0.3;
 }
 
-#erwin {
+#erwin, #greg {
 	text-align: center;
 	font-size: 85px;
 }
+
+
+
 
 .banner {
 	text-align: center;
@@ -69,3 +72,37 @@ img {
     width:"20%";
     height:"30%";
 }
+=======
+html {
+    height: 100%;
+  }
+
+  body {
+    min-height: 100%;
+    position: relative;
+    margin: 0;
+    padding-bottom: 1rem; 
+}
+  
+.footer {
+    /* position: absolute;
+    bottom: 0;*/
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    height: 20px;
+    background: #f0f0f0;
+}
+
+  .list-group-item {
+    background-color: inherit;
+  }
+
+.container-fluid img{
+    width: 100%;
+    height: auto;
+    float: left;
+    padding: 5px;
+}
+
