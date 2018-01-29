@@ -1,6 +1,6 @@
 body {
     background: red; /* For browsers that do not support gradients */
-    background: linear-gradient(to right, rgb(108, 145, 247), rgb(247, 222, 81));
+    background: linear-gradient(to right, rgb(236, 214, 85), rgb(107, 207, 253));
 }
 
 
@@ -85,4 +85,5 @@ body {
     height: auto;
     float: left;
     padding: 5px;
+}
 }
